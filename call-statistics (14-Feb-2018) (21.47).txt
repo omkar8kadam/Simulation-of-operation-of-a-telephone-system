@@ -1,0 +1,7 @@
+         Total calls  :  34
+     Total idle time  :  0 Mins
+     Total wait time  :  983 Mins
+  Total service time  :  113 Mins
+  Maximum queue size  :  17
+   Average wait time  :  28.911764 Mins
+Average service time  :  3.323529 Mins
